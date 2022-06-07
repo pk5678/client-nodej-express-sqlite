@@ -1,3 +1,5 @@
+# Application is dependent on "https://github.com/pk5678/nodejs-express-sqlite"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
